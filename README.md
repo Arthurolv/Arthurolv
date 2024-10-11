@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+perfil!;Estudante+De+Analise+Desenvolvimento+de+sistemas;Confira+meus+projetos+👇&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
 
 
+
 ## Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Apaixonado por desenvolvimento e tecnologias.
