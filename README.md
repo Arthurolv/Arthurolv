@@ -16,6 +16,7 @@
 
 ## Projetos em Destaque
 - [**Sistema de vendas em Java**](https://github.com/Arthurolv/sistema-de-venda-em-java) - Um sistema que gerencia vendas e gera relatório de comissões em PDF.
+- [**Loja de SemiJoias**](https://github.com/Arthurolv/aplicativo-loja-de-semijoias) - Uma Loja de SemiJoias em kotlin mo android studio.
 
 ## Contato
 - **LinkedIn:** [Arthur Oliveira](https://www.linkedin.com/in/arthur-oliveira-vasconcelos-24b17b214)
